@@ -8,3 +8,4 @@ scikit-learn
 logging
 pickle-mixin
 pathlib
+spacy[en_core_web_sm]
